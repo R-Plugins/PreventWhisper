@@ -1,6 +1,6 @@
 <?php
 
-namespace _ReSTA\preventwhisper
+namespace _ReSTA\preventwhisper;
 
 use pocketmine\event\Listener;
 
