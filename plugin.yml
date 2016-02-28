@@ -1,0 +1,10 @@
+name: PreventWhisper
+main: _ReSTA\preventwhisper\PreventWhisper
+api: [1.13.0, 2.0.0]
+version: "1.0"
+load: POSTWORLD
+author: ReSTA
+website: github.com/r-plugins
+commands:
+  dnd:
+    description: Prevent whisper messages from other players.
